@@ -28,3 +28,8 @@ $ git config user.name
 $ git config user.email
 
 https://blog.csdn.net/weixin_48024605/article/details/136037857
+
+先提交，再点击对勾，再推送，再点击左下角的云同步即可完成新建项目的上传。
+
+现在尝试新建一个分支：
+1.点击左下角main，创建新分支：first 
